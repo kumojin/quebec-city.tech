@@ -15,7 +15,7 @@ var events = [];
 
 $.each(meetups, function() {
   $("#icons").append('<div class="col-md-3">'
-    + '<div class="card">'
+    + '<div class="card mb-3">'
     // + '<div style="background-image: url(meetups/'+this.id+'.png); background-position: bottom; background-repeat: repeat;"></div>'
       + '<img class="card-img-top" style="width: auto; height: auto;max-width: 100%;max-height: 120px" src="meetups/' + this.id + '.png" alt="' + this.name + ' logo" />'
       + '<div class="card-body">'
