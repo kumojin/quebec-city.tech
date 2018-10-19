@@ -2,7 +2,7 @@
 
 ## What ?
 
-Les communautés techniques sont diverses et vivent leur vie chacune à leur rythem, mais ça ne veut pas dire qu'elles n'ont pas 
+Les communautés techniques sont diverses et vivent leur vie chacune à leur rythme, mais ça ne veut pas dire qu'elles n'ont pas 
 des choses à partager. Entre autre, de la visibilité aussi bien pour le public que pour les structures avec qui elles peuvent
 être amenées à discuter pour obtenir des salles ou des financements.
 
@@ -20,5 +20,4 @@ Pour ajouter un meetup, il suffit de compléter la liste [ici](https://github.co
 avec le nom du meetup tel qu'il apparait dans l'URL de meetup.com, et de fournir le logo associé, au format 100x100 pixels, 
 dans le répertoire [meetups](https://github.com/jmaitrehenry/quebec-city.tech/tree/master/meetups).
 
-Si vous avez des idées pour rendre tout ça plus sexy / utile [ouvrez une issue](https://github.com/jmaitrehenry/quebec-city.tech/issues) 
-pour en discuter.
+Si vous avez des idées pour rendre tout ça plus sexy / utile [ouvrez une issue](https://github.com/jmaitrehenry/quebec-city.tech/issues) pour en discuter.
