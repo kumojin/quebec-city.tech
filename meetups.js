@@ -7,7 +7,8 @@ var meetups = [
   { id: 'Quebec-City-HashiCorp-User-Group', name: 'Quebec City HashiCorp User Group' },
   { id: 'Sitecore-User-Group-Quebec', name: 'Sitecore User Group Quebec' },
   { id: 'Quebec-Numerique', name: 'Québec Numérique' },
-  { id: 'DotNet-Quebec', name: 'DotNet Quebec' }
+  { id: 'DotNet-Quebec', name: 'DotNet Quebec' },
+  { id: 'Ansible-Quebec', name: 'Ansible Québec' }
 ];
 
 
